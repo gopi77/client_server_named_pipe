@@ -1,0 +1,5 @@
+﻿  server_main.cpp
+e:\project\client_server\server\server\server_main.cpp(149): warning C4474: 'wprintf' : too many arguments passed for format string
+  e:\project\client_server\server\server\server_main.cpp(149): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  server.vcxproj -> E:\project\client_server\server\server\Debug\server.exe
+  server.vcxproj -> E:\project\client_server\server\server\Debug\server.pdb (Full PDB)
